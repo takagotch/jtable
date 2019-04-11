@@ -2,6 +2,8 @@
 ---
 https://github.com/volosoft/jtable
 
+http://www.jtable.org/
+
 ```js
 $(document).ready(function(){
   $('#StudentTableContainer').jtable({
